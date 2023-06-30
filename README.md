@@ -1,6 +1,6 @@
-# DTCC Solar
+# DTCC Noise
 
-DTCC Solar is [FIXME].
+DTCC Noise is [FIXME].
 
 This project is part the
 [Digital Twin Platform (DTCC Platform)](https://gitlab.com/dtcc-platform)
@@ -24,7 +24,7 @@ Part of this code is contributed by ReSpace AB under the MIT License.
 
 ## License
 
-DTCC Solar is licensed under the
+DTCC Noise is licensed under the
 [MIT license](https://opensource.org/licenses/MIT).
 
 Copyright is held by the individual authors as listed at the top of
